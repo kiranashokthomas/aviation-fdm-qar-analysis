@@ -1,0 +1,3 @@
+# Place your QAR CSV data file here.
+# Run generate_sample_data.py to create sample_qar_data.csv
+# or provide your own QAR CSV in this directory.
