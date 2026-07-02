@@ -1,0 +1,22 @@
+# Aviation FDM & QAR Analysis Pipeline
+# Requirements
+# Python 3.9+
+
+# Core data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Excel export
+openpyxl>=3.1.0
+
+# Visualisation (optional - for notebooks)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Jupyter notebooks (optional)
+jupyterlab>=4.0.0
+ipykernel>=6.0.0
+
+# Development / testing
+pytest>=7.4.0
+pytest-cov>=4.0.0
